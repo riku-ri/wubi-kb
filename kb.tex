@@ -31,14 +31,14 @@
 \global\khc=5%由于 N 键字根太多而设置为 5
 \global\multiply\khd by \khc%每行\khc个字根
 \global\newdimen\lrb
-\global\lrb=0.25em
+\global\lrb=0.5em
 \global\newdimen\klined
 \global\klined=\khd
 \global\advance\klined by 2\lrb%每行\khd加上最终左右两边间距
 \global\advance\klined by 2\lined%两边边框
 
 \global\newdimen\kvs
-\global\kvs=0.25em
+\global\kvs=0.5em
 \global\newdimen\cv
 \global\cv=1em
 \global\advance\cv by\kvs%每个字根上下各0.5\kvs
@@ -46,7 +46,7 @@
 \global\newcount\kvc
 \global\kvc=5%一个键中最多有几行
 \global\newdimen\tbb
-\global\tbb=0.25em
+\global\tbb=0.5em
 \global\newdimen\keypanelv
 \global\keypanelv=\cv%1行本身的高度
 \global\multiply\keypanelv by\kvc%一个键中最多有\kvc行
@@ -109,6 +109,11 @@
 		\vbox to\cv{
 			\vfill\hbox to\ch{\hss\RM#1\hss}\vfill
 		}}
+\gdef\C#1{
+	\c{
+		\vbox to\cv{\vss\hbox to\ch{\hss\fontsize\LARGE#1\hss}\vss}
+	}
+}
 
 \gdef\key#1#2#3{\hbox to\klined{
 	\vbox to\kcolumnd{\hr
