@@ -3,9 +3,8 @@
 :apl: 《Arphic Public License》《文鼎公众授权书》（1999年版本）
 :rls: link:https://github.com/riku-ri/wubi-kb/releases[Release]
 :pdf: pass:[<b>wubi-86-kb.pdf</b>]
-= {i}
 
-== {i}
+= {i}
 
 {i}是绘制{5b}的相关代码
 

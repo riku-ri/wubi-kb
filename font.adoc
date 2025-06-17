@@ -3,11 +3,10 @@
 :apl: 《Arphic Public License》《文鼎公众授权书》（1999年版本）
 :rls: link:https://github.com/riku-ri/wubi-kb/releases[Release]
 :pdf: pass:[<b>wubi-86-kb.pdf</b>]
+
 = {i}
 
-== {i}
-
-=== 版权要求的修改声明
+== 版权要求的修改声明
 
 根据{apl}，
 本项目在此处声明对 AR PL UMing CN 字体所做的修改：
