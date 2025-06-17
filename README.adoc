@@ -11,8 +11,9 @@
 可通过下载{rls}页面的{pdf}获得由link:wubi-86-kb.tex[`wubi-86-kb.tex`]绘制的{5b}
 
 根据{apl}的要求，
-https://github.com/riku-ri/wubi-kb/releases/tag/font:[font tag Pre-release]
-页面中提供了用于绘制字根表的字体。
+https://github.com/riku-ri/wubi-kb/releases/tag/font[font tag Pre-release]
+页面中提供了用于绘制字根表的字体
+- https://github.com/riku-ri/wubi-kb/releases/tag/font
 在link:kb.texp[`kb.tex`] 中使用 luaTeX-ja 以文件名方式加载它： `[UMingCN-wubi-86-kb]`
 
 根据{apl}的要求， link:font.adoc[font.adoc]中记录了对 AR PL UMing TW
