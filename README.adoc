@@ -11,7 +11,7 @@
 可通过下载{rls}页面的{pdf}获得由link:wubi-86-kb.tex[`wubi-86-kb.tex`]绘制的{5b}
 
 根据{apl}的要求，
-https://github.com/riku-ri/wubi-kb/releases/tag/font[font tag Pre-release]
+https://github.com/riku-ri/wubi-kb/releases/tag/font[font] Pre-release
 页面中提供了用于绘制字根表的字体
 
 * https://github.com/riku-ri/wubi-kb/releases/tag/font
