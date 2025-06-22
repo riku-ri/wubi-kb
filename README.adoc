@@ -1,3 +1,5 @@
+:showtitle:
+:doctype: article
 :i: link:.[wubi-kb]
 :5b: 五笔字型86版五笔字根表
 :apl: 《Arphic Public License》《文鼎公众授权书》（1999年版本）
